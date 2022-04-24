@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.xpeedstudio.com	TRUE	/evenex/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+demo.xpeedstudio.com	TRUE	/evenex/	FALSE	1999999999	ppwp_wp_session	160801fa7bec4477e99eaee59a29a908%7C%7C1650791106%7C%7C1650790746
+demo.xpeedstudio.com	TRUE	/	FALSE	1999999999	PHPSESSID	57a3d0d33ad041636d052eddee016cdc
+
